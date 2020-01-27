@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'package.json-to-credits',
   siteDescription: 'Turn any package.json into movie credits',
-  siteUrl: 'https://n3ps.github.io',
+  siteUrl: 'https://francisn.com',
   pathPrefix: '/package-json-credits',
   plugins: [{
     use: 'gridsome-plugin-tailwindcss'
