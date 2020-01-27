@@ -19,9 +19,9 @@
       </main>
       <footer class="text-xs text-center pb-32 px-8">
         <div class="flex flex-wrap justify-center mb-32">
-          <img class="logo opacity-80" src="~/assets/dolby.jpeg" alt="Dolby" width="670" height="377" />
-          <img class="logo opacity-80" src="~/assets/ssds.png" alt="SSDS" width="200" height="164" />
-          <img class="logo opacity-80" src="~/assets/mpaa.jpg" alt="MPAA" width="500" height="281" />
+          <g-image class="logo opacity-80" src="~/assets/dolby.jpeg" alt="Dolby" width="670" height="377" />
+          <g-image class="logo opacity-80" src="~/assets/ssds.png" alt="SSDS" width="200" height="164" />
+          <g-image class="logo opacity-80" src="~/assets/mpaa.jpg" alt="MPAA" width="500" height="281" />
         </div>
         <p class="mb-4">This project &copy; 2020 Francis Nepomuceno</p>
         <p class="mb-4">All material is protected by {{ p.license }}. All rights reserved.</p>
