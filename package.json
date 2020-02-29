@@ -17,6 +17,6 @@
     "typeface-abel": "0.0.72"
   },
   "devDependencies": {
-    "gridsome-plugin-tailwindcss": "^2.2.32"
+    "gridsome-plugin-tailwindcss": "^2.2.36"
   }
 }
