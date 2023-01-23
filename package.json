@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^5.0.0",
     "gridsome": "^0.7.23",
     "typeface-abel": "1.1.13"
   },
